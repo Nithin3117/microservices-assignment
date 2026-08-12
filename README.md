@@ -811,6 +811,6 @@ The repository contains the complete source code, README documentation, architec
 
 ## Author
 
-**Nithin**
+**Nithin Bollineni**
 
 B.Tech Student
