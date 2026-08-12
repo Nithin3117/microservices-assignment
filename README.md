@@ -81,7 +81,6 @@ The system contains the following components:
              └───────────┘
 ```
 
-``
 # 3. Services
 
 ## API Gateway
