@@ -81,16 +81,6 @@ The system contains the following components:
              └───────────┘
 ```
 
-### Architecture Diagram
-
-The detailed architecture diagram is available in:
-
-```text
-architecture.png
-```
-
----
-
 # 3. Services
 
 ## API Gateway
